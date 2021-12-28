@@ -4,13 +4,14 @@ In compliance with the BASS audio library's liscense, this program is freeware.
 Important note: D is a compiled language and I am using a Windows computer. 
 Ergo if you are using a Mac/Linux OS, then you will need to recompile the code.
 
-*Libraries used:
+*Libraries used:*
 Derelict BASS
 Timer
 gtk-D
 
-*Bugs:
+*Bugs:*
 No Bugs detected as of yet!
 
-*To-Do:
-Move from a metronome base into a 
+*To-Do:*
+Move from a metronome base into a more drum-like base by incorporating half-notes, quarter notes, etc.
+Move to a more drumpad like design instead of the current UI.
