@@ -19,6 +19,8 @@ No Bugs detected as of yet!
 
 *To-Do:*
 
-Move from a metronome base into a more drum-like base by incorporating half-notes, quarter notes, etc.
+-Move from a metronome base into a more drum-like base by incorporating half-notes, quarter notes, etc.
 
-Move to a more drumpad like design instead of the current UI.
+-Move to a more drumpad like design instead of the current UI.
+
+-Clean up Code
